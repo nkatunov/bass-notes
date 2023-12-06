@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ID"
+                 name="notes"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="1-History.md"/>
+    <toc-element topic="2-Types.md"/>
+    <toc-element topic="3-Parts.md"/>
+    <toc-element topic="4-Posture.md"/>
+    <toc-element topic="5-Models.md"/>
+    <toc-element topic="6-Styles-Techniques.md"/>
+    <toc-element topic="7-Tuning.md"/>
+    <toc-element topic="8-Motor-skills.md"/>
+</instance-profile>
